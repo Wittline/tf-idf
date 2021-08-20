@@ -140,17 +140,9 @@ class TFIDF(object):
         return (tfidf / norms[:,None])
 ```
 
+# Contributing and Feedback
+Any ideas or feedback about this repository?. Help me to improve it.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Authors
+- Created by <a href="https://www.linkedin.com/in/ramsescoraspe"><strong>Ramses Alexander Coraspe Valdez</strong></a>
+- Created on 2021
