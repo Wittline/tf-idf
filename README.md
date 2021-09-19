@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="xUDPilxSmZTjjJr_tkLv-sDOWR5T9Q4Sb9s-IbaGrqA" />
+
 # TF-IDF from Scratch
 ## Term Frequency-Inverse Document Frequency
 #### Ramses Alexander Coraspe Valdez
