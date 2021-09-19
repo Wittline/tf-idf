@@ -1,4 +1,5 @@
 # TF-IDF (Term Frequency-Inverse Document Frequency) from Scratch
+#### Ramses Alexander Coraspe Valdez
 
 This technique is a combination of two count-based metrics, Term frequency (tf) and Inverse document frequency (idf), is part of the information retrieval and text feature extraction areas, 
 
