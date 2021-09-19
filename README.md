@@ -150,3 +150,5 @@ Any ideas or feedback about this repository?. Help me to improve it.
 # Authors
 - Created by <a href="https://www.linkedin.com/in/ramsescoraspe"><strong>Ramses Alexander Coraspe Valdez</strong></a>
 - Created on 2021
+# blog
+ <a href="https://coraspe-ramses.medium.com/"><strong>Medium</strong></a> 
